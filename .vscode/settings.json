@@ -1,0 +1,15 @@
+{
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact"
+  ],
+  "files.exclude": {
+    "**/.next": true
+  },
+  "search.exclude": {
+    "**/.next": true,
+    "**/yarn-error.log": true,
+    "**/yarn.lock": true
+  },
+  "editor.tabSize": 2
+}

@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".", // This must be specified if "paths" is.
+    "module": "commonjs",
+    "target": "es6",
+    "paths": {
+      "modules/*": ["src/modules/*"],
+      "images/*": ["src/images/*"]
+    }
+  },
+  "exclude": ["node_modules", ".next"]
+}
