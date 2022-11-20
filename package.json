@@ -42,7 +42,7 @@
     "sharp": "^0.25.2",
     "slugify": "^1.4.0",
     "stringify-object": "^3.3.0",
-    "svg-sprite-loader": "^4.2.1",
+    "svg-sprite-loader": "^6.0.0",
     "to-vfile": "^6.1.0",
     "unified": "^9.0.0",
     "validator": "^13.0.0",
