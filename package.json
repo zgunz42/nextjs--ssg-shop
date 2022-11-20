@@ -43,7 +43,7 @@
     "slugify": "^1.4.0",
     "stringify-object": "^3.3.0",
     "svg-sprite-loader": "^4.2.1",
-    "to-vfile": "^6.1.0",
+    "to-vfile": "^7.0.0",
     "unified": "^9.0.0",
     "validator": "^13.0.0",
     "yaml": "^1.8.3"
