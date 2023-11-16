@@ -39,7 +39,7 @@
     "remark-parse": "^8.0.0",
     "remark-react": "^7.0.1",
     "responsive-loader": "^1.2.0",
-    "sharp": "^0.25.2",
+    "sharp": "^0.32.0",
     "slugify": "^1.4.0",
     "stringify-object": "^3.3.0",
     "svg-sprite-loader": "^4.2.1",
